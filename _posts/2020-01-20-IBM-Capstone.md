@@ -1,4 +1,4 @@
-# The Battle of Neighborhoods(Week1)
+# The Battle of Neighborhoods
 **Meeenakshi Dubey**
 
 ## <span style="color: steelblue;"> Where to live in Canberra?</span>
